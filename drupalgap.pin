@@ -64,6 +64,7 @@ Apache Cordova
 DrupalGap
 
  • Puente entre Drupal y Apache Cordova
+ • Usa jQuery Mobile para la UI
 
 -- [drupalgap_login.png]
 -- [drupalgap_node.png]
@@ -74,6 +75,7 @@ Enlaces
 
  • http://www.drupal.org
  • http://www.drupalgap.org
+ • https://jquerymobile.com/
  • https://cordova.apache.org/
 
 -- [questions_alf.png]
